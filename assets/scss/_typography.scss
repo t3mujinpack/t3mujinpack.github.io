@@ -28,7 +28,6 @@ h5,
 h6,
 .h6,
 p,
-li,
 th {
   font-family: var(--font-title);
   font-weight: 800;
@@ -36,10 +35,12 @@ th {
   font-size: clamp(var(--min), var(--val), var(--max));
 }
 p,
-li,
 td {
   font-family: var(--font);
   font-weight: 400;
+}
+li {
+  font-family: var(--font);
 }
 
 // Font size variables
@@ -103,14 +104,14 @@ h6,
 p,
 li {
   --min: 1.25em; // minimum value
-  --val: 2vw; // preferred value = 2% viewport width
-  --max: 1.4em; // maximum value
-  line-height: 1.5;
+  --val: 1.8vw; // preferred value = 2% viewport width
+  --max: 1.5em; // maximum value
+  line-height: 1.25;
   overflow-wrap: break-word;
-  margin: var(--gap) 0;
+  margin: calc(var(--gap) / 3) 0;
 }
 li {
-  margin: calc(var(--gap)/3) 0;
+  margin: calc(var(--gap)/13) 0;
 }
 p + p,
 p + ol,

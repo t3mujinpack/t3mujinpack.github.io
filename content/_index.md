@@ -8,30 +8,3 @@ A set of presets designed to emulate some of the most used photo films of all ti
 
 
 
-### All Supported Films
-|Black & White|Color Negative|Color Slide|
-|---|---|---|
-|AGFA APX 100|Agfa Vista 100|Fuji Astia 100F|
-|AGFA APX 25|Agfa Vista 200|Fuji Fortia SP 50|
-|Fuji Neopan 1600|Agfa Vista 400|Fuji Provia 100F|
-|Fuji Neopan Acros 100|Fuji Pro 160C|Fuji Provia 400F|
-|Ilford Delta 100|Fuji Pro 400H|Fuji Provia 400X|
-|Ilford Delta 3200|Fuji Pro 800Z|Fuji Sensia 100|
-|Ilford Delta 400|Fuji Superia 100|Fuji Velvia 100|
-|Ilford FP4 125|Fuji Superia 1600|Fuji Velvia 50|
-|Ilford HP5 Plus 400|Fuji Superia 200|Kodak Ektachrome 100 G|
-|Ilford XP2|Fuji Superia 400|Kodak Ektachrome 100 GX|
-|Kodak T-Max 3200|Fuji Superia 800|Kodak Ektachrome 100 VS|
-|Kodak Tri-X 400|Fuji Superia HG 1600|Kodak Elite Chrome 400 Kodak|
-||Kodak ColorPlus 200|Kodakchrome 200|
-||Kodak Gold 200|Kodak Kodakchrome 25|
-||Kodak Ektar 100|Kodak Kodakchrome 64|
-||Kodak Portra 160||
-||Kodak Portra 160 NC||
-||Kodak Portra 160 VC||
-||Kodak Portra 400||
-||Kodak Portra 400 NC||
-||Kodak Portra 400 UC||
-||Kodak Portra 400 VC||
-||Kodak Portra 800||
-||Kodak Ultra Max 400||
