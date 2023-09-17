@@ -11,7 +11,7 @@ image: "/images/banner.jpg"
 Requirements: These presets are for Darktable only! This version has been tested with Darktable 4.4.x , specially the uninstall script.
 
 ## Download
-The release package, from version 0.6.0 onwards, comes in two flavors: **flat** and **one-level**, all have the same funcionality but displayed in a different structure in the Lighttable and Darkroom modes. You should download the one that suits you the most, between having all styles in a flat list or separated by film type.
+The release package, from version 0.6.0 onwards, comes in two flavors: **flat** and **one-level**, all have the same functionality but displayed in a different structure in the Lighttable and Darkroom modes. You should download the one that suits you the most, between having all styles in a flat list or separated by film type.
 
 ### Flat hierarchy
 Shows the full, big list without any hierarchy, the way the presets have been show in Darktable until know, ex:
@@ -62,6 +62,15 @@ Install the styles following the steps from above.
 ## TLDR
 Just open the image, adjust the basic settings, apply the selected preset, and you’re ready to go.
 ## The slightly longer version
-The big premise of these styles is that it's not a one stop for the entire processing performed on one photo. This means there's no change in the "core" modules of Darktable, and any of those modules will be included in these.
+The big premise of these styles is that it's not meant to be a one stop for the entire processing performed on one photo. These are expected to be applied to an already processed image, as in it's final touch to set it's overall mood and look. 
 
-By default the basecurve module isn’t disabled when styles are applied, but feel free to disable it. It’s highly recommended to have the White Balance adjusted to a somehow neutral setting (minor tweaks in temperature and tint are ok) and the same goes with exposure or shadows and highlights before applying the style, this is so that the base image is relatively plain and clean to be a good starting point to apply the style and have the expected result; if you use a enabled more extreme custom base curve that’s radically different from the default or have other modules in the pipeline adding contrast, then unexpected results could happen. These styles aren’t meant to be a final result and further adjustments after applying the styles are expected and highly recommended.
+The recommended processing workflow is something like this:
+1. Perform basic exposure adjustment 
+2. Set the correct white balance
+3. Apply your pixel workflow module, if not already applied by default, this can be _basecurve_, _filmic rgb_ or _sigmoid_
+4. Perform other basic exposure or color adjustments, like shadows/highlights or color vibrance/saturation
+5. At this point the photo should in a neutral, well exposed level.
+6. Apply the **t3mujinpack** style (multiple can be applied, as each one will override completely the previous one)
+7. Perform final tweaks on color and exposure, to adjust to the changes from the style 
+
+### Scene Referred or Display Referred 
