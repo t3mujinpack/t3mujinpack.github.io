@@ -417,3 +417,38 @@
     content: "•";
   }
 }
+
+/* Img comparison slider */
+
+img-comparison-slider:focus {
+  outline: none;
+  box-shadow: 0px;
+}
+
+img-comparison-slider .before,
+img-comparison-slider .after {
+  margin: 0;
+}
+
+img-comparison-slider .before figcaption,
+img-comparison-slider .after figcaption {
+  background: #fff;
+  border: 0;
+  border-radius: 3px;
+  color: #2e3452;
+  opacity: 0.3;
+  padding: 8px;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  line-height: 100%;
+  font-family: var(--font);
+}
+
+img-comparison-slider .before figcaption {
+  left: 12px;
+}
+
+img-comparison-slider .after figcaption {
+  right: 12px;
+}

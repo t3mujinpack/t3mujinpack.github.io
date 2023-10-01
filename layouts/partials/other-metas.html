@@ -1,0 +1,9 @@
+<link rel="author" href='{{ "/humans.txt" | absURL }}'>
+
+{{ if .Params.css }}
+<link rel="stylesheet" href="{{ .Params.css }}">
+{{ end }}
+
+{{ if .Params.js }}
+<script defer src="{{ .Params.js }}"></script>
+{{ end }}
