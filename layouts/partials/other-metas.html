@@ -1,9 +1,9 @@
 <link rel="author" href='{{ "/humans.txt" | absURL }}'>
 
-{{ if .Params.css }}
-<link rel="stylesheet" href="{{ .Params.css }}">
+{{ if eq .Params.imgComparisonSliderMeta true  }}
+<link rel="stylesheet" href="https://unpkg.com/img-comparison-slider@7/dist/styles.css">
+<script defer src="https://unpkg.com/img-comparison-slider@7/dist/index.js"></script>
 {{ end }}
 
-{{ if .Params.js }}
-<script defer src="{{ .Params.js }}"></script>
-{{ end }}
+
+
