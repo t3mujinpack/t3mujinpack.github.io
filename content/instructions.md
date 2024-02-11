@@ -8,7 +8,7 @@ image: "/images/banner.jpg"
 
 # Install/Uninstall/Upgrade
 
-Requirements: These presets are for Darktable only! This version has been tested with Darktable 4.4.x , specially the uninstall script.
+Requirements: These presets are for Darktable only! This version has been tested with Darktable 4.6.x , specially the uninstall script.
 
 ## Download
 The release package, from version 0.6.0 onwards, comes in two flavors: **flat** and **one-level**, all have the same functionality but displayed in a different structure in the Lighttable and Darkroom modes. You should download the one that suits you the most, between having all styles in a flat list or separated by film type.
