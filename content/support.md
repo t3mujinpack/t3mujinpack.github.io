@@ -6,7 +6,7 @@ image: "/images/banner.jpg"
 ---
 
 # Help and Feedback
-- **[Discussions on Github]()** - this is official support channel for the presets, here you can [post any question](https://github.com/t3mujin/t3mujinpack/discussions/new/choose) regarding usage, installation, etc.
+- **[Discussions on Github](https://github.com/orgs/t3mujinpack/discussions)** - this is official support channel for the presets, here you can [post any question](https://github.com/orgs/t3mujinpack/discussions/new/choose) regarding usage, installation, etc.
 - **[PIXLS.US Forum](https://discuss.pixls.us/tag/t3mujinpack)** - This is an additional resource where valuable information can be found, along 
 # Bugs and Roadmap
 - **[Issues on Github](https://github.com/t3mujin/t3mujinpack/issues)** - the issue tracker for the project, where all the ongoing bugs and features in the roadmap. You can also submit [one](https://github.com/t3mujin/t3mujinpack/issues/new). 
