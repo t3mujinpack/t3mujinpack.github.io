@@ -22,9 +22,9 @@ All the releases until now
 
 
 
-[**Download**](/2019/01/20/t3mujinpack-0.5.0-is-out/)
+[**Download**](https://github.com/t3mujin/t3mujinpack/releases/tag/v0.6.0)
 
-## [0.5.0]({{< ref "content\posts\t3mujin_0-5-0\index.md" >}})
+## [0.5.0](/2019/01/20/t3mujinpack-0.5.0-is-out/)
 * Updated all Kodak Portra NC/VC/UC.
 * New uninstaller script for Windows.
 * Smaller tweaks on all Fuji Pro.
@@ -35,9 +35,9 @@ All the releases until now
 
 
 
-[**Download**](/2018/07/30/t3mujinpack-0.4.0-is-out/)
+[**Download**](https://github.com/t3mujin/t3mujinpack/releases/tag/v0.5.0)
 
-## [0.4.0]({{< ref "content\posts\t3mujin_0-4-0\index.md" >}})
+## [0.4.0](/2018/07/30/t3mujinpack-0.4.0-is-out/)
 * Updated all Fuji Pro and Astia 100F films.
 * Updated all Kodak Porta films.
 * Updated all Kodak Ektachrome and Ektar.
@@ -47,7 +47,7 @@ All the releases until now
 
 [**Download**](https://github.com/t3mujin/t3mujinpack/releases/tag/v0.4.0)
 
-## [0.3.0]({{< ref "content\posts\t3mujin_0-3-0\index.md" >}})
+## [0.3.0](/2017/03/26/t3mujinpack-0.3.0-is-out/)
 * Updated Fuji Pro 400H and 800Z.
 * Updated Fuji Provia 100F.
 * Updated Kodak Kodachrome 64 and Kodak Kodachrome 200.
@@ -55,7 +55,7 @@ All the releases until now
 * Fixes in uninstall script: fixed typos and colors, script now more resilient (thanks Marek for the changes).
 
 
-[**Download**](/2017/03/26/t3mujinpack-0.3.0-is-out/)
+[**Download**](https://github.com/t3mujin/t3mujinpack/releases/tag/v0.3.0)
 
 ## 0.2.0
 * Updated Kodak Portra styles (mostly the new ones, the non UC/VC/UC presets).
