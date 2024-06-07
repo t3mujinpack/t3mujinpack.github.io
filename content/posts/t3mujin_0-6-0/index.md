@@ -1,6 +1,6 @@
 ---
 title: "t3mujinpack 0.6.0 is out"
-description: "This is desc 8"
+description: "New Kodak color films (Gold, etc), new Agfa colot films, support for Darktable 3.0.x, Option for hierarchical view."
 date: 2020-04-30T11:11:11+01:00
 type: "post"
 draft: false
@@ -55,3 +55,4 @@ Groups presets into three different sections (Color Slide, Color Negative and Bl
 Get it from Github:
 - **[Flat hierarchy variant](https://github.com/t3mujin/t3mujinpack/releases/download/v0.6.0/t3mujinpack_0.6.0_flat.zip)**
 - **[One level hierarchy variant](https://github.com/t3mujin/t3mujinpack/releases/download/v0.6.0/t3mujinpack_0.6.0_one-level.zip)**
+

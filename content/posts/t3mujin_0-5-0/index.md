@@ -1,6 +1,6 @@
 ---
 title: "t3mujinpack 0.5.0 is out"
-description: "This is desc 8"
+description: "Another revamp of the Portras, plus some more tweaks on other Kodak films"
 date: 2019-01-20T11:11:11+01:00
 type: "post"
 draft: false

@@ -1,6 +1,6 @@
 ---
 title: "t3mujinpack 0.4.0 is out"
-description: "This is desc 8"
+description: "Revamp of the Fuji Pro and all Portra variants"
 date: 2018-07-30T11:11:11+01:00
 type: "post"
 draft: false

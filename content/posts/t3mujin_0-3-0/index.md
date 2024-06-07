@@ -1,6 +1,6 @@
 ---
 title: "t3mujinpack 0.3.0 is out"
-description: "This is desc 8"
+description: "Incremental release, with changes in the Fuji and Ektar film emulations"
 date: 2017-03-26T11:11:11+01:00
 type: "post"
 draft: false
