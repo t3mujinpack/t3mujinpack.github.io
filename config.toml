@@ -113,4 +113,5 @@ canonifyURLs = true
   category = "Announcements"
   category_id = "DIC_kwDOLn5X9c4CeW7h"
   mapping = "og:title"
-  reactions = true
+  reactions = true  
+  lazy_loading = false

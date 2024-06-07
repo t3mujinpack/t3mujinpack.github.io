@@ -1,0 +1,12 @@
+
+{{- $opts := dict
+  "params" (dict "endpoint" .Site.Params.giscus.endpoint)
+-}}
+{{- $giscus := resources.Get "js/giscus.ts" }}
+{{- $giscus = $giscus | js.Build $opts }}
+<script src="{{ $giscus.RelPermalink }}"></script>
+
+<div class="giscus">
+  {{ partial "giscus/script-with-options" .Site.Params.blog.giscus }}  
+</div>
+

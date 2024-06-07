@@ -24,10 +24,12 @@ window.onload = function () {
             if (e.currentTarget.classList.contains("dark--hidden")) {
                 document.documentElement.setAttribute("data-theme", "dark");
                 localStorage.setItem("dark-mode", "dark");
+                window.Giscus.setTheme('dark')
                 return;
             }
             document.documentElement.setAttribute("data-theme", "light");
             localStorage.setItem("dark-mode", "light");
+            window.Giscus.setTheme('light')
         };
         const toggleThemes = document.querySelectorAll(".theme__btn");
         toggleThemes.forEach(function (btn) {
