@@ -4,7 +4,7 @@
 -}}
 {{- $giscus := resources.Get "js/giscus.ts" }}
 {{- $giscus = $giscus | js.Build $opts }}
-<script src="{{ $giscus.RelPermalink }}"></script>
+<script src="{{ ($giscus | minify | fingerprint).RelPermalink }}"></script>
 
 <div class="giscus">
   {{ partial "giscus/script-with-options" .Site.Params.blog.giscus }}  
