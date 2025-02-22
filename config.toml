@@ -6,12 +6,16 @@ paginate = 7
 mainSections = "post"
 
 [outputs]
-  home = ["HTML", "humanstxt"]
+  home = ["HTML", "humanstxt", "rss"]
   
   [outputFormats.humanstxt]
       baseName = "humans"
       isPlainText = true
       mediaType = "text/plain"
+
+[services]
+  [services.rss]
+    limit = 50
 
 [languages]
   [languages.en]
@@ -33,19 +37,19 @@ canonifyURLs = true
   ga_id=""
   mainSections = ["post"]
   disqus = "xxxxxxx"
-  defaultImage = "https://raw.githubusercontent.com/jmau111/hugo-theme-ava/main/images/default.jpeg"
+  defaultImage = "https://t3mujinpack.github.io/images/banner.jpg"
 
   [params.meta_tags]
-    meta_description = "Ava is a light theme for your blog with essential features you might dig in."
+    meta_description = "A pack of presets for open-source RAW developer software Darktable that includes some of the most used photo films of all time, like Velvia or Kodachrome."
     meta_og_title = "t3mujinpack"
     meta_og_sitename = "t3mujinpack, film emulation presets for Darktable"
     meta_og_type = "website"
-    meta_og_url = "https://jmau111.github.io/hugo-theme-ava-demo"
-    meta_og_image = "https://raw.githubusercontent.com/jmau111/hugo-theme-ava/main/images/default.jpeg"
-    meta_og_description = "Ava is a light theme for your blog with essential features you might dig in."
-    meta_twitter_card = "summary"
-    meta_twitter_site = "@gohugoio"
-    meta_twitter_creator = "@gohugoio"
+    meta_og_url = "https://t3mujinpack.github.io"
+    meta_og_image = "https://t3mujinpack.github.io/images/banner.jpg"
+    meta_og_description = "A pack of presets for open-source RAW developer software Darktable that includes some of the most used photo films of all time, like Velvia or Kodachrome."
+    meta_twitter_card = ""
+    meta_twitter_site = ""
+    meta_twitter_creator = ""
     
  [params.humans_txt]
     dev_team = ""
