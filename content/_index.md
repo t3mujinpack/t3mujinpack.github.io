@@ -12,13 +12,14 @@ imgComparisonSliderMeta: true
 A set of presets designed to emulate some of the most used photo films of all time, build specifically for open-source RAW developer software Darktable. Includes vivid colors of Fuji Velvia, the muted tones of Kodachrome or the classic Ilford b&w films among many others.
 
 
-### slider 1
-{{< img-comparison-slider before="/2020/04/30/t3mujinpack-0.6.0-is-out/images/Lisboa_201885228_01.jpg" after="/2019/01/20/t3mujinpack-0.5.0-is-out/images/portra_160vc_after.jpg">}}
+### Portra 400
+{{< img-comparison-slider before="/samples/Portra400_before.webp" after="/samples/Portra400_after.webp">}}
  
+### Gold 200
+{{< img-comparison-slider before="/samples/Gold200_before.webp" after="/samples/Gold200_after.webp">}} 
 
-### slider 2
-{{< img-comparison-slider before="/2019/01/20/t3mujinpack-0.5.0-is-out/images/portra_160vc_after.jpg" after="/2020/04/30/t3mujinpack-0.6.0-is-out/images/Lisboa_201885228_01.jpg">}}
+### Kodachrome 200
+{{< img-comparison-slider before="/samples/kodachrome200_before.webp" after="/samples/kodachrome200_after.webp">}}
 
-
-### slider 3
-{{< img-comparison-slider before="/2019/01/20/t3mujinpack-0.5.0-is-out/images/portra_160vc_after.jpg" after="/2020/04/30/t3mujinpack-0.6.0-is-out/images/Lisboa_201885228_01.jpg">}}
+### Velvia 50
+{{< img-comparison-slider before="/samples/Velvia50_before.webp" after="/samples/Velvia50_after.webp">}}
