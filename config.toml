@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en"
 title = "t3mujinpack"
 theme = "hugo-theme-ava"
-paginate = 7
+pagination.pagerSize = 7
 mainSections = "post"
 
 [outputs]
