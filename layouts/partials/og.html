@@ -45,8 +45,8 @@
 <link rel="sitemap" type="application/xml" title="Sitemap" href="{{ .Site.BaseURL }}sitemap.xml" /> 
 
 {{ with .OutputFormats.Get "RSS" }}
-  <link href="{{ $permalink }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" />
-  <link href="{{ $permalink }}" rel="feed" type="application/rss+xml" title="{{ $.Site.Title }}" />
+  <link href="{{ $permalink }}/posts/index.xml" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" />
+  <link href="{{ $permalink }}/posts/index.xml" rel="feed" type="application/rss+xml" title="{{ $.Site.Title }}" />
 {{ end }}
 
 <meta name="robots" content="index,follow" /> 
