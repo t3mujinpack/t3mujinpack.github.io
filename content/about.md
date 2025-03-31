@@ -51,4 +51,4 @@ These presets aren’t optimized to any model and should work with any camera, i
 - Nikon D800
 - Sony RX100 I
 
-You have any issue with your camera model, or just want to add yours to that list? Just [open an issue and send your feedback](https://github.com/t3mujin/t3mujinpack/issues/new/choose).
+You have any issue with your camera model, or just want to add yours to that list? Just [open an issue and send your feedback](https://github.com/t3mujinpack/t3mujinpack/issues/new/choose).

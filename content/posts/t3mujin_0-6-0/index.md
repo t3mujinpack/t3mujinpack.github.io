@@ -53,6 +53,6 @@ Groups presets into three different sections (Color Slide, Color Negative and Bl
 
 ## Download
 Get it from Github:
-- **[Flat hierarchy variant](https://github.com/t3mujin/t3mujinpack/releases/download/v0.6.0/t3mujinpack_0.6.0_flat.zip)**
-- **[One level hierarchy variant](https://github.com/t3mujin/t3mujinpack/releases/download/v0.6.0/t3mujinpack_0.6.0_one-level.zip)**
+- **[Flat hierarchy variant](https://github.com/t3mujinpack/t3mujinpack/releases/download/v0.6.0/t3mujinpack_0.6.0_flat.zip)**
+- **[One level hierarchy variant](https://github.com/t3mujinpack/t3mujinpack/releases/download/v0.6.0/t3mujinpack_0.6.0_one-level.zip)**
 

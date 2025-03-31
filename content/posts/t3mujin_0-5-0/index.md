@@ -27,4 +27,4 @@ Finally, a note on Darktable 2.6.0, t3mujinpack has already been tested with thi
 
 
 ## Download
-**[Download it from Github](https://github.com/t3mujin/t3mujinpack/releases/download/v0.5.0/t3mujinpack_0-5-0.zip)**
+**[Download it from Github](https://github.com/t3mujinpack/t3mujinpack/releases/download/v0.5.0/t3mujinpack_0-5-0.zip)**

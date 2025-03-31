@@ -22,4 +22,4 @@ And this pretty much covers the main changes in the 0.4.0 version of t3mujinpack
 - Smaller tweaks on Kodak Kodakchrome films.
 
 ## Download
-**[Download it from Github](https://github.com/t3mujin/t3mujinpack/releases/download/v0.4.0/t3mujinpack_0-4-0.zip)**
+**[Download it from Github](https://github.com/t3mujinpack/t3mujinpack/releases/download/v0.4.0/t3mujinpack_0-4-0.zip)**

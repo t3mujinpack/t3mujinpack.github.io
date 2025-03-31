@@ -1,5 +1,5 @@
 # t3mujinpack-site
-The homesite for the [t3mujinpack](https://github.com/t3mujin/t3mujinpack)
+The homesite for the [t3mujinpack](https://github.com/t3mujinpack/t3mujinpack)
 
 This provides the landing page with the project information and download details for the presets. 
 

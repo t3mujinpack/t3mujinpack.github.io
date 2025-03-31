@@ -20,4 +20,4 @@ Another change was on the uninstall scripts, needed to install this version over
 - Fixes in uninstall script: fixed typos and colors, script now more resilient.
 
 ## Download
-**[Download it from Github](https://github.com/t3mujin/t3mujinpack/releases/download/v0.3.0/t3mujinpack_0-3-0.zip)**
+**[Download it from Github](https://github.com/t3mujinpack/t3mujinpack/releases/download/v0.3.0/t3mujinpack_0-3-0.zip)**

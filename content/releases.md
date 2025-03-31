@@ -22,7 +22,7 @@ All the releases until now
 
 More details on the [blog post](/2020/04/30/t3mujinpack-0.6.0-is-out/).
 
-[**Download**](https://github.com/t3mujin/t3mujinpack/releases/tag/v0.6.0)
+[**Download**](https://github.com/t3mujinpack/t3mujinpack/releases/tag/v0.6.0)
 
 ## 0.5.0
 * Updated all Kodak Portra NC/VC/UC.
@@ -35,7 +35,7 @@ More details on the [blog post](/2020/04/30/t3mujinpack-0.6.0-is-out/).
 
 More details on the [blog post](/2019/01/20/t3mujinpack-0.5.0-is-out/).
 
-[**Download**](https://github.com/t3mujin/t3mujinpack/releases/tag/v0.5.0)
+[**Download**](https://github.com/t3mujinpack/t3mujinpack/releases/tag/v0.5.0)
 
 ## 0.4.0
 * Updated all Fuji Pro and Astia 100F films.
@@ -45,7 +45,7 @@ More details on the [blog post](/2019/01/20/t3mujinpack-0.5.0-is-out/).
 
 More details on the [blog post](/2018/07/30/t3mujinpack-0.4.0-is-out/).
 
-[**Download**](https://github.com/t3mujin/t3mujinpack/releases/tag/v0.4.0)
+[**Download**](https://github.com/t3mujinpack/t3mujinpack/releases/tag/v0.4.0)
 
 ## 0.3.0
 * Updated Fuji Pro 400H and 800Z.
@@ -56,7 +56,7 @@ More details on the [blog post](/2018/07/30/t3mujinpack-0.4.0-is-out/).
 
 More details on the [blog post](/2017/03/26/t3mujinpack-0.3.0-is-out/).
 
-[**Download**](https://github.com/t3mujin/t3mujinpack/releases/tag/v0.3.0)
+[**Download**](https://github.com/t3mujinpack/t3mujinpack/releases/tag/v0.3.0)
 
 ## 0.2.0
 * Updated Kodak Portra styles (mostly the new ones, the non UC/VC/UC presets).
@@ -67,9 +67,9 @@ More details on the [blog post](/2017/03/26/t3mujinpack-0.3.0-is-out/).
 * New style removal script, both for uninstall and upgrade.
 * Fix: Velvia 50 wasn’t enabling the module
 
-[**Download**](https://github.com/t3mujin/t3mujinpack/releases/tag/v0.2.0)
+[**Download**](https://github.com/t3mujinpack/t3mujinpack/releases/tag/v0.2.0)
 
 ## 0.1.1
 * Initial release
 
-[**Download**](https://github.com/t3mujin/t3mujinpack/releases/tag/0.1.1)
+[**Download**](https://github.com/t3mujinpack/t3mujinpack/releases/tag/0.1.1)
