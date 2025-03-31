@@ -108,7 +108,7 @@ canonifyURLs = true
     weight = 6
 
 [permalinks]
-  posts = "/:year/:month/:day/:slug/"
+  posts = "/:year/:month/:slug/"
   pages = "/:filename/"
 
 [params.blog.giscus]
