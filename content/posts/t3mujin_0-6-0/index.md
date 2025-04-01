@@ -1,6 +1,6 @@
 ---
 title: "t3mujinpack 0.6.0 is out"
-description: "New Kodak color films (Gold, etc), new Agfa colot films, support for Darktable 3.0.x, Option for hierarchical view."
+description: "New Kodak color films (Gold, etc), new Agfa color films, support for Darktable 3.0.x, Option for hierarchical view."
 date: 2020-04-30T11:11:11+01:00
 type: "post"
 draft: false
