@@ -9,7 +9,7 @@ imgComparisonSliderMeta: true
 > 
 > This is the new home for the presets, in case you were redirected here and were expecting the old page.
 > 
-> The goal for this is to be the entry point for everything related with those: releases, updates, support, etc. Check the [update on the blog]({{% ref "posts/updates-changes/index.md"%}}) for all the details.
+> The goal for this is to be the entry point for everything related with those: releases, updates, support, etc. Check the [update on the blog](/2025/04/update-on-t3mujinpack-and-next/) for all the details.
 
 A set of presets designed to emulate some of the most used photo films of all time, build specifically for open-source RAW developer software Darktable. Includes vivid colors of Fuji Velvia, the muted tones of Kodachrome or the classic Ilford b&w films among many others.
 
