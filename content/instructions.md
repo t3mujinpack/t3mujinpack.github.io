@@ -74,3 +74,4 @@ The recommended processing workflow is something like this:
 7. Perform final tweaks on color and exposure, to adjust to the changes from the style 
 
 ### Scene Referred or Display Referred 
+Because these styles are built on top of the assumption that basic settings are applied, it really is agnostic of this.   
