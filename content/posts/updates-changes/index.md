@@ -1,9 +1,9 @@
 ---
 title: "Update on t3mujinpack and next"
 description: "All the things that have been happening and changing with the presets."
-date: 2025-04-02T11:11:11+01:00
+date: 2025-04-02T00:00:00+01:00
 type: "post"
-draft: true
+draft: false
 image: "images/Lisboa_201744270_01.jpg"
 ---
 You may question whether these presets have been abandoned, because the last release is almost five years old! The short answer is: no it's not! The longer answer is: it's complicated and thats why we're here.
