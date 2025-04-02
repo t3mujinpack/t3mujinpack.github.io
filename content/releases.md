@@ -5,7 +5,9 @@ date: 2021-08-01T11:11:11+01:00
 image: "/images/banner.jpg"
 ---
 
-All the releases until now
+All the releases until now.
+
+Want to get notified when a new release is out? You can go to [Github repository](https://github.com/t3mujinpack/t3mujinpack) and use the Watch feature (it allows to customize what to be notified, and how). There's also the option to add the [Updates feed](/posts/index.xml) to your reader. 
 
 ## 0.6.0
 * New style: Fuji Fortia SP 50.
