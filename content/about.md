@@ -46,6 +46,7 @@ These presets aren’t optimized to any model and should work with any camera, i
 - Fujifilm X-E2
 - Fujifilm X-E3
 - Fujifilm X-T10
+- Nikon Z6 II
 - Nikon D300s
 - Nikon D7100
 - Nikon D800
